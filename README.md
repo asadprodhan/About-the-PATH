@@ -81,7 +81,7 @@ The above ‘export’ command will add ‘/home/user_name/Softwares/ont-guppy/b
 **To avoid it, you can add “export PATH=$PATH:/home/user_name/Softwares/ont-guppy/bin” to the bashrc profile in your Linux computer.**
 
 
-**This will add the path permanently in the PATH variable.** 
+**This will add the guppy path permanently to the PATH variable.** 
 <br />
 <br />
 
