@@ -108,4 +108,4 @@ export PATH=$PATH:/home/user_name/Softwares/ont-guppy/bin
 <br />
 <br />
 
-***Now, you can run ‘guppy’ from any directory in your computer, not just from the one where you downloaded and installed ‘guppy’. That’s the power of the PATH variable, i.e., PATH environmental variable!!***
+***Now, you can run ‘guppy’ from any directory in your computer, not just from the one where you downloaded and installed ‘guppy’. That’s the power of the PATH environmental variable!! The PATH environmental variable is briefly called as PATH variable***
