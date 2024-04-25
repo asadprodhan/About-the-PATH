@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Prodhan
+    given-names: M. Asaduzzaman
+    orcid: https://orcid.org/0000-0002-1320-3486
+title: "About the PATH"
+version: 1
+doi: 10.5281/zenodo.11068991
+date-released: 2024-04-26
+url: "https://github.com/asadprodhan/About-the-PATH/tree/main"
