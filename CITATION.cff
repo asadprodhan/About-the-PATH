@@ -1,0 +1,13 @@
+abstract: path vs PATH
+authors:
+- affiliation: Department of Primary Industries and Regional Development
+  family-names: Asad Prodhan
+cff-version: 1.2.0
+date-released: '2024-04-25'
+doi: 10.5281/zenodo.11068992
+license:
+- cc-by-4.0
+repository-code: https://github.com/asadprodhan/About-the-PATH/tree/v1
+title: 'asadprodhan/About-the-PATH: v1'
+type: software
+version: v1
