@@ -1,6 +1,11 @@
 # **About the PATH** <br />
+
+
+### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
+
+
 <br />
-<br />
+
 
 PATH is a case-sensitive term in the Linux operating system. The lower case, path, is the location of a particular file or directory. The upper case, PATH, is called an environmental variable.
 
