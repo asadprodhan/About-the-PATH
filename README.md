@@ -4,6 +4,11 @@
 ### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
 
 
+
+[![DOI](https://zenodo.org/badge/DOI/doi.org/10.5281/zenodo.11068991.svg)](https://doi.org/10.5281/zenodo.11068991)
+
+
+
 <br />
 
 
